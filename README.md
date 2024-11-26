@@ -57,3 +57,10 @@ Pentru a verifica dacă ați rezolvat corect un laborator:
 ```bash
 checkwork telnetlab
 ```
+
+
+## Network-intro
+| Name | Write-UP                                                               | Status  |
+|------------|--------------------------------------------------------------------|---------|
+| network-basics   | [ret2win](https://ropemporium.com/challenge/ret2win.html)          | ✅       |
+| Test    | [ret2csu](https://ropemporium.com/challenge/ret2csu.html)          | ❌       |
